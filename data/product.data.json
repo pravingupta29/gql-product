@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Lorem",
+    "type": "NON_FOOD",
+    "price": 34.5
+  },
+  {
+    "id": "2",
+    "name": "Ipsum",
+    "type": "FOOD",
+    "price": 67.5
+  },
+  {
+    "id": "3",
+    "name": "Ipsum",
+    "type": "MKP",
+    "price": 78.5
+  },
+  {
+    "id": "mmOD5guUy",
+    "price": 899,
+    "name": "Test",
+    "productType": "FOOD"
+  }
+]
